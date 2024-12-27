@@ -1,0 +1,128 @@
+{
+  "AssetId": "809fd33a8c774ad09260fcf207eadd71",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+        "name": "$SpecificBuffImmunity$3b81b034-6d4a-46be-a84c-fd3dcc3f7a71",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Buff": "!bp_bd0b478bdb014d4c9d5b6af8ac877283",
+        "m_ActionsOnImmunity": {
+          "Actions": []
+        },
+        "m_DisableGameLog": false
+      },
+      {
+        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+        "name": "$SpecificBuffImmunity$7a13dd99-f8cb-4fe7-9c58-3b44a00dbea7",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Buff": "!bp_8f4a66a1c9674e2b9016f79cc73f58a6",
+        "m_ActionsOnImmunity": {
+          "Actions": []
+        },
+        "m_DisableGameLog": false
+      },
+      {
+        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+        "name": "$SpecificBuffImmunity$7e2a4fe1-92fe-48af-a7a1-cbaebeca014e",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Buff": "!bp_f1c0c6bee3c54cc694c1d1746eafcb15",
+        "m_ActionsOnImmunity": {
+          "Actions": []
+        },
+        "m_DisableGameLog": false
+      },
+      {
+        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+        "name": "$SpecificBuffImmunity$bb6d55dc-4b9e-4238-8464-a1e97caf0206",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Buff": "!bp_a7841f4596694e508c302b5ffab92753",
+        "m_ActionsOnImmunity": {
+          "Actions": []
+        },
+        "m_DisableGameLog": false
+      },
+      {
+        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+        "name": "$SpecificBuffImmunity$174c183f-9ec7-44ec-abae-d4aeb4ddad00",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Buff": "!bp_866cb491aeda45869e40a9165447a7cc",
+        "m_ActionsOnImmunity": {
+          "Actions": []
+        },
+        "m_DisableGameLog": false
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "4de58527-e74d-4686-b794-a948be3a6743",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "e1670f2f-8999-48ba-90ef-871b95992706",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_AllowNonContextActions": false,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Ranks": 1,
+    "Prerequisites": {
+      "Composition": "And",
+      "List": []
+    },
+    "FeatureTypes": [],
+    "TalentIconInfo": {
+      "AllGroups": "Buff",
+      "MainGroup": "Buff"
+    },
+    "m_Acronym": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "ShowInDialogue": false,
+    "IsStarshipFeature": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

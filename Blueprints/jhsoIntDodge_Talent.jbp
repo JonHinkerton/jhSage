@@ -1,0 +1,67 @@
+{
+  "AssetId": "aa67b9f2b18c4346bc0bfd086a65e0d5",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0b4684d3bfe5495bb8e279792b7f961b, WarhammerDodgeChanceStatReplacement",
+        "name": "$WarhammerDodgeChanceStatReplacement$38a86e15-7ea1-4b2d-94d2-ba6f8aa4482a",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "AgilityReplacementStat": "WarhammerIntelligence"
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "53fc081a-7538-40ae-9339-7b2d532feb05",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "a185cd4b-59db-4f4a-9a07-1169117d62bc",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_AllowNonContextActions": false,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Ranks": 1,
+    "Prerequisites": {
+      "Composition": "And",
+      "List": []
+    },
+    "FeatureTypes": [
+      "Defense",
+      "Origin"
+    ],
+    "TalentIconInfo": {
+      "AllGroups": "Dodge, Occupation",
+      "MainGroup": "Dodge"
+    },
+    "m_Acronym": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "ShowInDialogue": false,
+    "IsStarshipFeature": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

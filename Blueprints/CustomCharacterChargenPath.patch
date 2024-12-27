@@ -1,0 +1,78 @@
+{
+  "Components": [
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddFeaturesToLevelUp$65a54b87-08e8-4e40-984f-9164f8cc679f",
+      "InsertAfterTarget": null
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddFeaturesToLevelUp$16c4ba26-f7de-4d5f-abd2-6a6283677052",
+      "InsertAfterTarget": "$AddFeaturesToLevelUp$65a54b87-08e8-4e40-984f-9164f8cc679f"
+    },
+    {
+      "PatchType": "PatchElement",
+      "Target": "$AddFeaturesToLevelUp$16c4ba26-f7de-4d5f-abd2-6a6283677052",
+      "ElementPatch": {
+        "m_Features": [
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_8ffb91ddc3c84d6f8d4004c5751ba28b",
+            "InsertAfterTarget": "!bp_368650db0ef647fd8e62b680386dc071"
+          },
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_9aae5586831f485fb32c4c6034d93ef5",
+            "InsertAfterTarget": "!bp_8ffb91ddc3c84d6f8d4004c5751ba28b"
+          },
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_284f91c6f687445e94a87ab4a777251d",
+            "InsertAfterTarget": "!bp_9aae5586831f485fb32c4c6034d93ef5"
+          }
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddFeaturesToLevelUp$42a8c6b2-c9ac-4757-98af-aabbfcc1f7af",
+      "InsertAfterTarget": "$AddFeaturesToLevelUp$16c4ba26-f7de-4d5f-abd2-6a6283677052"
+    },
+    {
+      "PatchType": "PatchElement",
+      "Target": "$AddFeaturesToLevelUp$42a8c6b2-c9ac-4757-98af-aabbfcc1f7af",
+      "ElementPatch": {
+        "m_Features": [
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_e62c35e20b2f4e8db0c8bfc6724f7612",
+            "InsertAfterTarget": "!bp_1518d1434ed646039215da3fdda6b096"
+          }
+        ]
+      }
+    },
+    {
+      "PatchType": "PatchElement",
+      "Target": "$AddFeaturesToLevelUp$64e75635-2620-45f9-931b-0a7776665f0a",
+      "ElementPatch": {
+        "m_Features": [
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_b6b4c7324aca4b11ace904e9a5d445a1",
+            "InsertAfterTarget": "!bp_c160ccb31fc64d70bee6f9860aebc007"
+          },
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_fb87243483cd41cbb8cbc94a0bc13725",
+            "InsertAfterTarget": "!bp_b6b4c7324aca4b11ace904e9a5d445a1"
+          },
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_b3171a63d78f4c4388a1b46900f95681",
+            "InsertAfterTarget": "!bp_fb87243483cd41cbb8cbc94a0bc13725"
+          }
+        ]
+      }
+    }
+  ]
+}

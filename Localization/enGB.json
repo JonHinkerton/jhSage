@@ -1,0 +1,82 @@
+{
+    "strings": {
+        "d97be90f-e1ad-4025-8d35-cc0343c644e4": {
+            "Text": "Administratum Sage"
+        },
+		"e93ac90a-d518-4bdd-a796-97f0836bd9a9": {
+            "Text": "Thinking machines, or abominable intelligences, have long been banned in the Imperium. While machine spirits are able to fill many tasks for which such beasts were required, the act of processing, analyzing, and synthesising large amounts of data is beyond the ability of a mere machine. To fill this role, humanity instead employs sages, individuals of great intellect trained to use their minds in powerful new ways which allow them to store vast amounts of data in compartmentalized segments and to use that data to make predictions and determinations which no lesser intelligence would be capable."
+        },
+		"35ffd78e-d886-4828-9f8c-a7b7a22825d3": {
+            "Text": "Apex of Brilliance"
+        },
+		"a75bcef6-fb90-4950-9e5d-1eeba75b50b7": {
+            "Text": "Your analysis of shipping patterns in the region revealed the preperations for an incursion which you helped to blunt."
+        },
+		"a4b427c7-f1df-4a71-9174-0f1c8a04930e": {
+            "Text": "Illustrious Glory"
+        },
+		"f26ad1ea-2def-4fd0-83e4-976b2eb767dc": {
+            "Text": "You defeated an abominable intelligence in a regicide tournament."
+        },
+		"1efb4d3b-3c23-42b8-9045-5c58ba7e564a": {
+            "Text": "Feat of Greatness"
+        },
+		"f1e2f1b2-020c-4390-b3a5-38758709546d": {
+            "Text": "Your encyclopedic knowledge of published warp routes allowed you to take over for a navigator who perished during a warp transit."
+        },
+		"8730389b-4142-4938-97b1-be77a99812dc": {
+            "Text": "Grim Portents"
+        },
+		"b34d09da-ae11-449f-b77e-841a0c59e0a1": {
+            "Text": "Your analysis of the current state of the Expanse consistently foretells imminent doom."
+        },
+		"38675588-907c-4535-ba49-af3629d333c9": {
+            "Text": "Brand of Shame"
+        },
+		"4febe1ae-ff48-44da-8f94-b1644f5b8446": {
+            "Text": "Your inability to decipher a heretical cypher prevented you from warning your world of an impending attack."
+        },
+		"4e8d777e-f6ab-4bad-82a3-97e3897ecf5a": {
+            "Text": "Shadow of Torment"
+        },
+		"bd4ebf31-8b44-4b88-98e5-90dc055d0920": {
+            "Text": "Dark secrets have been locked inside your mind and their corruption seeps into your conscious thoughts."
+        },
+		"293363cb-9665-4f61-991d-e6e3a0980b03": {
+            "Text": "Threat Analysis"
+        },
+		"6dfdf71b-a5fd-4ba5-8745-087bb096a4bd": {
+            "Text": "The sage begins combat with a number of stacks of this ability equal to their intelligence modifier. Using this ability adds +Intelligence critical hit chance to their next attack."
+        },
+		"53fc081a-7538-40ae-9339-7b2d532feb05": {
+            "Text": "Calculated Risk"
+        },
+		"a185cd4b-59db-4f4a-9a07-1169117d62bc": {
+            "Text": "The sage's dodge is based on their intelligence rather than their agility."
+        },
+		"4de58527-e74d-4686-b794-a948be3a6743": {
+            "Text": "Closed Mind"
+        },
+		"e1670f2f-8999-48ba-90ef-871b95992706": {
+            "Text": "The sage is immune to Disturbed, Perplexed, Slowed, Staggered, and Stunned."
+        },
+		"20fd006f-4ac1-4bb3-a805-95a6faea68d0": {
+            "Text": "Supercomputing"
+        },
+		"826c8ea9-aeae-4fbe-a669-6add59d52b9c": {
+            "Text": "Any time the sage begins the turn with and intelligence bonus of 10 or higher, they gain +1 AP."
+        },
+		"cb9d4ea4-e7bb-4ca0-b000-139d586f046f": {
+            "Text": "Sound Arguments"
+        },
+		"5e1f5e9b-b2be-4229-ad62-a9a91c8b7a39": {
+            "Text": "Any time the sage would use their fellowship bonus, they can use their intelligence bonus instead."
+        },
+		"1b6cbba0-644f-4ad3-ad13-d44b47d96d31": {
+            "Text": "Quick Thinking"
+        },
+		"e1d3b5e2-25b6-4a17-a45a-8fcc7a83d1a9": {
+            "Text": "The sage adds their intelligence bonus to their initiative roll."
+        }
+    }
+}
