@@ -34,51 +34,6 @@
           "Actions": []
         },
         "m_DisableGameLog": false
-      },
-      {
-        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
-        "name": "$SpecificBuffImmunity$7e2a4fe1-92fe-48af-a7a1-cbaebeca014e",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_Buff": "!bp_f1c0c6bee3c54cc694c1d1746eafcb15",
-        "m_ActionsOnImmunity": {
-          "Actions": []
-        },
-        "m_DisableGameLog": false
-      },
-      {
-        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
-        "name": "$SpecificBuffImmunity$bb6d55dc-4b9e-4238-8464-a1e97caf0206",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_Buff": "!bp_a7841f4596694e508c302b5ffab92753",
-        "m_ActionsOnImmunity": {
-          "Actions": []
-        },
-        "m_DisableGameLog": false
-      },
-      {
-        "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
-        "name": "$SpecificBuffImmunity$174c183f-9ec7-44ec-abae-d4aeb4ddad00",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_Buff": "!bp_866cb491aeda45869e40a9165447a7cc",
-        "m_ActionsOnImmunity": {
-          "Actions": []
-        },
-        "m_DisableGameLog": false
       }
     ],
     "Author": "Unknown",
