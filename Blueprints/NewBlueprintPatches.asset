@@ -14,8 +14,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Entries:
   - Guid: 45181a40472441a8904a5282f83693f4
-    Filename: CustomCharacterChargenPath
+    Filename: CustomCharacterChargenPath.patch
     PatchType: 2
   - Guid: e9215686ca994c3a8fd2558b9e91c649
-    Filename: NewCompanion_CustomCharacterChargenPath
+    Filename: NewCompanion_CustomCharacterChargenPath.patch
+    PatchType: 2
+  - Guid: 177a79344f6d48ff83a36e8a8fa13a73
+    Filename: AnswersList_0010.patch
+    PatchType: 2
+  - Guid: 9962280583404cdd9f033343e1a64d86
+    Filename: Cue_17.patch
+    PatchType: 2
+  - Guid: dc39733633074ee6998a3285499d9ff3
+    Filename: AnswersList_0005.patch
+    PatchType: 2
+  - Guid: 66a9b2859f0f424d931c54c1edeabbe2
+    Filename: Triumph_GreatDeed.patch
+    PatchType: 2
+  - Guid: fd959b00fd384838aa8defd1ce2a592f
+    Filename: Triumph_Glory.patch
+    PatchType: 2
+  - Guid: aa45d3391abe45a697b11df2545feaa7
+    Filename: Triumph_FeatOfMind.patch
+    PatchType: 2
+  - Guid: 81e99ebc0d9b43c2957e02ecd5912268
+    Filename: DarkestHour_Shame.patch
+    PatchType: 2
+  - Guid: 57658c516b99466da87edf82acdfa370
+    Filename: DarkestHour_DarkSigns.patch
+    PatchType: 2
+  - Guid: 43fbc71c50084afcafa433b290dccccd
+    Filename: DarkestHour_Tortures.patch
     PatchType: 2

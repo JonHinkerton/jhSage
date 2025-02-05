@@ -77,6 +77,26 @@
         },
 		"e1d3b5e2-25b6-4a17-a45a-8fcc7a83d1a9": {
             "Text": "The sage adds their intelligence bonus to their initiative roll."
-        }
+        },
+		"f2aad49f-1c25-43c5-a80b-2d3116a11739": {
+		  "Offset": 0,
+		  "Text": "Scrivner Secundus {name} Wanamakar. I am familiar with two hunrded and seventeen rituals of greeting generally considered polite, though I prefer to bypass such trivialities and get to the point."
+		},
+		"0eec70f4-ebcd-44c8-93b5-9be2f896a8da": {
+		  "Offset": 0,
+		  "Text": "\"Then I shall spare you the rigors of formality, {name}, I am certain we will get to the point quite soon.\" {n}Voigtvir smiles faintly, but you are not sure it is directed at you.{/n}"
+		},
+		"894a40de-8cc6-453c-a1bd-bef50ccf79a6": {
+		  "Offset": 0,
+		  "Text": "Pursuant to Lex Imperialis code 2463.855 subsection 32c, following contact with a tainted human population - and I assume human as you said 'native' rather than 'xenos' - the planet must be quarantined and delegated to the Ordo Malleus as specified in section 31733b part..."
+		},
+		"d2540244-6ddd-471a-9cc8-c0eaaf974e6e": {
+		  "Offset": 0,
+		  "Text": "{n}Theodora cuts your response off with a frustrated wave.{/n} \"Yes, yes, the codicies are quite thorough indeed. This the Koronus Expanse {name}, not Ultramar. You will find the stakes here quite different from the segmenta, and that my warrant specifically permits a bit of... agility with which to operate.\""
+		},
+		"159e0fc7-c77e-4168-b19b-d1ad3a918c07": {
+		  "Offset": 0,
+		  "Text": "\"When Kunrad told me that one of my heirs was serving as a lowly quill-scratcher in the depths of the Administratum, well, I admit that I feared the worst.\" {n}Theodora raises her chin slightly, appraising you with her piercing gaze.{/n} \"But it would seem there is more to you than you than a mere clerk. I am to understand you have gained a reputation for both ruthless pragmatism and astute analysis. And, it would seem, ambition. Good. You have potential afterall.\""
+		}
     }
 }
