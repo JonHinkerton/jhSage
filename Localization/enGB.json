@@ -4,13 +4,13 @@
             "Text": "Administratum Sage"
         },
 		"e93ac90a-d518-4bdd-a796-97f0836bd9a9": {
-            "Text": "Thinking machines, or abominable intelligences, have long been banned in the Imperium. While machine spirits are able to fill many tasks for which such beasts were required, the act of processing, analyzing, and synthesising large amounts of data is beyond the ability of a mere machine. To fill this role, humanity instead employs sages, individuals of great intellect trained to use their minds in powerful new ways which allow them to store vast amounts of data in compartmentalized segments and to use that data to make predictions and determinations which no lesser intelligence would be capable."
+            "Text": "Thinking machines, or abominable intelligences, have long been banned in the Imperium. While machine spirits are able to fill many tasks for which such beasts were required, the act of processing, analyzing, and synthesizing large amounts of data is beyond the ability of a mere machine. To fill this role, humanity instead employs sages, individuals of great intellect trained to use their minds in powerful new ways which allow them to store vast amounts of data in compartmentalized segments and to use that data to make predictions and determinations which no lesser intelligence would be capable."
         },
 		"35ffd78e-d886-4828-9f8c-a7b7a22825d3": {
             "Text": "Apex of Brilliance"
         },
 		"a75bcef6-fb90-4950-9e5d-1eeba75b50b7": {
-            "Text": "Your analysis of shipping patterns in the region revealed the preperations for an incursion which you helped to blunt."
+            "Text": "Your analysis of shipping patterns in the region revealed the preparations for an incursion which you helped to blunt."
         },
 		"a4b427c7-f1df-4a71-9174-0f1c8a04930e": {
             "Text": "Illustrious Glory"
@@ -34,7 +34,7 @@
             "Text": "Brand of Shame"
         },
 		"4febe1ae-ff48-44da-8f94-b1644f5b8446": {
-            "Text": "Your inability to decipher a heretical cypher prevented you from warning your world of an impending attack."
+            "Text": "Your inability to decipher a heretical cipher prevented you from warning your world of an impending attack."
         },
 		"4e8d777e-f6ab-4bad-82a3-97e3897ecf5a": {
             "Text": "Shadow of Torment"
@@ -61,7 +61,7 @@
             "Text": "The sage is immune to Disturbed, Perplexed, Slowed, Staggered, and Stunned."
         },
 		"20fd006f-4ac1-4bb3-a805-95a6faea68d0": {
-            "Text": "Supercomputing"
+            "Text": "Super-computing"
         },
 		"826c8ea9-aeae-4fbe-a669-6add59d52b9c": {
             "Text": "Any time the sage begins the turn with and intelligence bonus of 10 or higher, they gain +1 AP."
@@ -80,7 +80,7 @@
         },
 		"f2aad49f-1c25-43c5-a80b-2d3116a11739": {
 		  "Offset": 0,
-		  "Text": "Scrivner Secundus {name} Wanamakar. I am familiar with two hunrded and seventeen rituals of greeting generally considered polite, though I prefer to bypass such trivialities and get to the point."
+		  "Text": "Scrivener Secundus {name} Wanamakar. I am familiar with two hundred and seventeen rituals of greeting generally considered polite, though I prefer to bypass such trivialities and get to the point."
 		},
 		"0eec70f4-ebcd-44c8-93b5-9be2f896a8da": {
 		  "Offset": 0,
@@ -92,11 +92,11 @@
 		},
 		"d2540244-6ddd-471a-9cc8-c0eaaf974e6e": {
 		  "Offset": 0,
-		  "Text": "{n}Theodora cuts your response off with a frustrated wave.{/n} \"Yes, yes, the codicies are quite thorough indeed. This the Koronus Expanse {name}, not Ultramar. You will find the stakes here quite different from the segmenta, and that my warrant specifically permits a bit of... agility with which to operate.\""
+		  "Text": "{n}Theodora cuts your response off with a frustrated wave.{/n} \"Yes, yes, the codices are quite thorough indeed. This the Koronus Expanse {name}, not Ultramar. You will find the stakes here quite different from the segmenta, and that my warrant specifically permits a bit of... agility with which to operate.\""
 		},
 		"159e0fc7-c77e-4168-b19b-d1ad3a918c07": {
 		  "Offset": 0,
-		  "Text": "\"When Kunrad told me that one of my heirs was serving as a lowly quill-scratcher in the depths of the Administratum, well, I admit that I feared the worst.\" {n}Theodora raises her chin slightly, appraising you with her piercing gaze.{/n} \"But it would seem there is more to you than you than a mere clerk. I am to understand you have gained a reputation for both ruthless pragmatism and astute analysis. And, it would seem, ambition. Good. You have potential afterall.\""
+		  "Text": "\"When Kunrad told me that one of my heirs was serving as a lowly quill-scratcher in the depths of the Administratum, well, I admit that I feared the worst.\" {n}Theodora raises her chin slightly, appraising you with her piercing gaze.{/n} \"But it would seem there is more to you than you than a mere clerk. I am to understand you have gained a reputation for both ruthless pragmatism and astute analysis. And, it would seem, ambition. Good. You have potential after all.\""
 		}
     }
 }

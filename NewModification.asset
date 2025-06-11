@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: jhSage
-    Version: 1.1
+    Version: 1.2.1
     DisplayName: Adminstratum Sage Origin
     Description: A human computer background for Rogue Traders
     Author: jonhinkerton
